@@ -1,10 +1,10 @@
-<h2>Project Description -</h2>
+<h1>Project Description -</h1>
 
 <p>This project was created with the aim of putting my programming skills into practice
 where through small projects I intend to create something that can be my gateway
 input to reach the company I target</p>
 
-<h2>How to access all projects?</h2>
+<h1>How to access all projects?</h1>
 
 <p>To access Project....</p>
 
